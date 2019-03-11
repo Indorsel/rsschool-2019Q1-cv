@@ -5,9 +5,9 @@
 2. **Contacts**. 
     - *Phone* – +375(33)3592900;
     - *City* – Vitebsk region, Novopolotsk;
-    - <img src="https://memepedia.ru/wp-content/uploads/2018/09/reklama-skaypa.jpg" width="64" height="32" alt="Skype"> *Skype* – timur.mirzaev.14;
-    - <img src="https://cdn.lifehacker.ru/wp-content/uploads/2017/05/30-stikerpakov-dlya-Telegram-na-vse-sluchai-zhizni_1494276568-1140x570.jpg" width="64" height="32" alt="telegram"> *Telegram* – indorsel;
-    - <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/VK.com-logo.svg/1200px-VK.com-logo.svg.png" width="16" height="16" alt="vk"> *Vkontakte* – [https://vk.com/tima_mirzaev](https://vk.com/tima_mirzaev);
+    - *Skype* – timur.mirzaev.14;
+    - *Telegram* – indorsel;
+    - *Vkontakte* – [https://vk.com/tima_mirzaev](https://vk.com/tima_mirzaev);
 
 3. **Summary**. 
     I have good analytical skills. Easy to learn. I work well in a team. Ready to perform the hard work.
