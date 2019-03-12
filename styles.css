@@ -1,0 +1,27 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+}
+
+header div h1 {
+    text-align: center;
+}
+
+li{
+    margin-top: 8px;
+}
+
+ul {
+    list-style: none;
+}
+
+ul li:before {
+    content: "–";
+    position: relative;
+    left: -2px;
+}
+
+img {
+    position: absolute;
+    margin-left: 750px;
+}
