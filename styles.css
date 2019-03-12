@@ -20,3 +20,8 @@ ul li:before {
     position: relative;
     left: -2px;
 }
+
+img {
+    position: absolute;
+    margin-left: 750px;
+}
