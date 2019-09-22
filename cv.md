@@ -1,6 +1,6 @@
 <h1>Resume</h1>
 
-1. **First name/Last name**. *Tsimur Mirzayeu*   <img src="https://scontent-frt3-2.cdninstagram.com/vp/8805ed61335e64056d48bbf0aa04f5d4/5D20758F/t51.2885-15/e15/11201712_608016262669284_380698258_n.jpg?_nc_ht=scontent-frt3-2.cdninstagram.com" width="200" heigth="273" alt="it's me"> 
+1. **First name/Last name**. *Tsimur Mirzayeu*   <img src="https://instagram.fvtb1-1.fna.fbcdn.net/vp/f6f7b07f6dc6f87bda740b8f7243208f/5E35508F/t51.2885-15/e15/11201712_608016262669284_380698258_n.jpg?_nc_ht=instagram.fvtb1-1.fna.fbcdn.net&_nc_cat=100" width="200" heigth="273" alt="it's me"> 
 
 2. **Contacts**. 
     - *Phone* – +375(33)3592900;
